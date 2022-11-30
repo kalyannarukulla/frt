@@ -1,4 +1,3 @@
-I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -8,13 +7,13 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : Foodie
+Project Title : puppy care
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Make your dogs look their best
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Make sure your puppy has fresh and abundant water early in the day to help break down the puppy food, as well as to keep them hydrated.
 
-Primary Azure Technology : Static Web Apps, App Service
+Primary Azure Technology : Static Web Apps, App Service,web app
 
 Static Web App URL : https://gentle-field-0a0c8f110.2.azurestaticapps.net/
 
