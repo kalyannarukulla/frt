@@ -9,7 +9,7 @@ Industry : Lifestyle
 
 Project Title : puppy care
 
-Problem Statement/Opportunity : Make your dogs look their best
+Problem Statement/Opportunity : One of the greatest joys in life is having a cuddly, cute puppy to have and hold. This is a memorable time for the entire family and everyone can participate in loving and caring for your new puppy. Our team and veterinarians know what an exciting and special time this is for you and we want to provide you with the best information and health care to get a great start for your new puppy's life. The time you commit to this puppy in the beginning of its life will have a great impact on your relationship for the next 12-15 years.
 
 Project Description : Make sure your puppy has fresh and abundant water early in the day to help break down the puppy food, as well as to keep them hydrated.Having a regular feeding and walking schedule will be a tremendous help with potty training. Puppies will begin to learn, understand and enjoy a scheduled routine.
 
