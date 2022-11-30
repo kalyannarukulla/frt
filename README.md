@@ -14,7 +14,7 @@ Problem Statement/Opportunity : Make your dogs look their best
 Project Description : Make sure your puppy has fresh and abundant water early in the day to help break down the puppy food, as well as to keep them hydrated.Having a regular feeding and walking schedule will be a tremendous help with potty training. Puppies will begin to learn, understand and enjoy a scheduled routine.
 
 
-Primary Azure Technology : Static Web Apps, App Service,web app
+Primary Azure Technology : Static Web Apps, App Service
 
 Static Web App URL : https://gentle-field-0a0c8f110.2.azurestaticapps.net/
 
