@@ -31,5 +31,5 @@ App Services URL : https://puppycare.azurewebsites.net/
 ![Screenshot 2022-11-30 132051](https://user-images.githubusercontent.com/117506043/204738533-ecf05d53-2834-473a-964c-14338b475e27.png)
 ![Screenshot_20221130_131649](https://user-images.githubusercontent.com/117506043/204738540-ab92364f-eaec-4d80-8309-7a6d04152688.png)
 
-## Azure Servises used
+## Azure Services used
 ![Screenshot_20221130_132654](https://user-images.githubusercontent.com/117506043/204739454-c4a854cf-42e4-4cd7-8d93-446cc148e95e.png)
